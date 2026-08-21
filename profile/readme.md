@@ -82,4 +82,4 @@ Mihai Oltean, *A wall garden*, 2026.
 
 ## Special thanks to
 
-Dorin Popa, Maria Oltean, Mihaela Roșu, Nicolae Oltean.
+Dorin Popa, Simona Dumitriu, Maria Oltean, Mihaela Roșu, Nicolae Oltean.
