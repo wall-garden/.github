@@ -2,8 +2,13 @@
 
 ![wall_garden](wall_garden.jpeg)
 
+A garden on the walls of the house.
+
 The purpose of the __Wall Garden__ is to:
 
+- Grow vegetables directly on the walls.
+- Consume less water than a horizontal garden.
+- Provide thermal insulation for the house.
 
 # Technical specs
 
@@ -15,7 +20,8 @@ The purpose of the __Wall Garden__ is to:
 ## Pictures and videos
 
 
-## Project inception and location
+
+## Project location
 
 Street: **Gh. Lazăr 9**, Town: **Cugir**, Country: **Romania**.
 
