@@ -2,7 +2,9 @@
 
 ![wall_garden](wall_garden.jpeg)
 
-A garden on the walls of the house.
+A vegetable garden on the walls of the house.
+
+No pots, just a continous layers of soil so that roots can grow!
 
 The purpose of the __Wall Garden__ is to:
 
@@ -36,9 +38,9 @@ Will be updated ...
 
 | Material     | Quantity | Unit |Price per unit (EURO)| Total price | Utilization | Where to buy|
 | ----------- | ------- | --- | ------- | ----- | ------ | ------ |
-L profile (steel) 30x30 | 24 | m |  ? | ? | support | local |
-welded mesh 6mm| 20 | m2 |  ? | ? | plexi support | local |
-plexiglass 2mm| 20 | m2 |  ? | ? | soil support | local |
+L profile (steel) 30x30mm | 24 | m |  ? | ? | support | local |
+welded mesh 6mm| 20 | m^2^ |  ? | ? | plexi support | local |
+plexiglass 2mm| 20 | m^2^ |  ? | ? | soil support | local |
 screws, nuts, washers (M8)| many | pcs | ? | ? | everywhere | local |
 
 ## Tools
