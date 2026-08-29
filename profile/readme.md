@@ -4,7 +4,7 @@
 
 A vegetable garden on the walls of the house.
 
-No pots, just a continous layers of soil so that roots can grow!
+No pots, just a continuous layer of soil so that roots can grow unrestricted!
 
 The purpose of the __Wall Garden__ is to:
 
