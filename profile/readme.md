@@ -14,6 +14,7 @@ The purpose of the __Wall Garden__ is to:
 
 # Technical specs
 
+Currently the wall garden is built on 3 sections of wall totalizing 6m in length and almost 2m in height.
 
 ## Maker
 
@@ -21,7 +22,7 @@ The purpose of the __Wall Garden__ is to:
 
 ## Pictures and videos
 
-
+... more soon.
 
 ## Project location
 
