@@ -20,7 +20,9 @@ The purpose of the __Wall Garden__ is to:
 
 - 1.8m (of soil) in height,
 
-- 11cm soil thickness.
+- 11cm soil thickness,
+
+- 2mm plexiglass is used as the external layer. I have chosen plexiglass because it is strong enough to hold the structure and it is easy to cut. Also, it is transparent and shows which part of the garden is not watered properly.
 
 ## Maker
 
