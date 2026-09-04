@@ -44,15 +44,17 @@ Will be updated ...
 
 | Material     | Quantity | Unit |Price per unit (EURO)| Total price | Utilization | Where to buy|
 | ----------- | ------- | --- | ------- | ----- | ------ | ------ |
-L profile (steel) 30x30mm | 24 | m |  ? | ? | support | local |
-welded mesh 6mm| 20 | m^2^ |  ? | ? | plexi support | local |
-plexiglass 2mm| 20 | m^2^ |  ? | ? | soil support | local |
+L profile (steel) 30x30mm | 24 | m | 2 | 48 | support | local |
+welded mesh 6mm| 20 | m^2^ |  5 | 100 | plexi support | local |
+plexiglass 2mm| 20 | m^2^ |  10 | 200 | soil support | local |
 screws, nuts, washers (M8)| many | pcs | ? | ? | everywhere | local |
 
 ## Tools
 
 - Drill/screwdriver machine. I have a [Milwaukee M18 FDD3](https://www.milwaukeetool.com/).
 - Grinding/metal cutting machine. I have a [Milwaukee M18FSAG125X](https://www.milwaukeetool.com/).
+- Heat gun.
+- Welding machine.
 - Drill bits.
 - Many others...
 
@@ -63,9 +65,9 @@ screws, nuts, washers (M8)| many | pcs | ? | ? | everywhere | local |
 
 ## Build instructions
 
-- Cut the bars to required size,
+- Cut the bars, welded mesh and the plexiglass to required size (depends on the wall size),
 - Build the mechanical structure,
-- Dig holes in plexiglass,
+- Dig holes in plexiglass (I did that with a ,
 - Plant peppers.
 
 More details will be given here soon ... [instructions.md](instructions.md)
