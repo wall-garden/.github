@@ -1,6 +1,6 @@
 # The Wall Garden
 
-![wall_garden](wall_garden.jpeg)
+![wall_garden](wall_garden3.jpeg)
 
 A vegetable garden on the walls of the house.
 
