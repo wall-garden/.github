@@ -14,7 +14,13 @@ The purpose of the __Wall Garden__ is to:
 
 # Technical specs
 
-Currently the __Wall Garden__ is built on 3 sections of wall totalizing 6m in length and 1.8m (of soil) in height.
+- 3 sections of wall (separated by windows). 
+
+- 6m in length (total),
+
+- 1.8m (of soil) in height,
+
+- 11cm soil thickness.
 
 ## Maker
 
