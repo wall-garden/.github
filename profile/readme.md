@@ -22,6 +22,8 @@ Currently the __Wall Garden__ is built on 3 sections of wall totalizing 6m in le
 
 ## Pictures and videos
 
+[YouTube video](https://www.youtube.com/watch?v=czQobMgsrGs)
+
 ... more soon.
 
 ## Project location
