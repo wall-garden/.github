@@ -30,7 +30,7 @@ The purpose of the __Wall Garden__ is to:
 
 [YouTube video](https://www.youtube.com/watch?v=czQobMgsrGs)
 
-[Instagram](https://www.instagram.com/oltean.mihai.nicolae/)
+[Instagram video](https://www.instagram.com/p/Dc1DuyxIgDQ/)
 
 ... more soon.
 
