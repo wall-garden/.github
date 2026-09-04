@@ -34,6 +34,7 @@ Street: **Gh. Lazăr 9**, Town: **Cugir**, Country: **Romania**.
 
 ## CAD files
 
+[https://github.com/wall-garden/cad](https://github.com/wall-garden/cad)
 
 ## Materials and prices
 
@@ -62,8 +63,10 @@ screws, nuts, washers (M8)| many | pcs | ? | ? | everywhere | local |
 
 ## Build instructions
 
-- Cut the bars to required size and angle,
-- Build the structure,
+- Cut the bars to required size,
+- Build the mechanical structure,
+- Dig holes in plexiglass,
+- Plant peppers.
 
 More details will be given here soon ... [instructions.md](instructions.md)
 
