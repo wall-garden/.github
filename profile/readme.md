@@ -67,7 +67,7 @@ screws, nuts, washers (M8)| many | pcs | ? | ? | everywhere | local |
 
 - Cut the bars, welded mesh and the plexiglass to required size (depends on the wall size),
 - Build the mechanical structure,
-- Dig holes in plexiglass (I did that with a ,
+- Dig holes in plexiglass (I did that with grinding machine with a 1mm thick blade and then I used the heat gun with a conic metal tube to enlarge it),
 - Plant peppers.
 
 More details will be given here soon ... [instructions.md](instructions.md)
