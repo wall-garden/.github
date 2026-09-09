@@ -16,7 +16,7 @@ The purpose of the __Wall Garden__ is to:
 
 ## Technical specs
 
-- 3 sections of wall (separated by windows). 
+- 3 sections of wall (separated by house's windows). 
 - 6m in length (total),
 - 1.8m (of soil) in height,
 - 11cm soil thickness,
@@ -31,7 +31,6 @@ From wall to outside:
 - plexiglass,
 - welded mesh,
 - vertical corners.
-
 
 ## Maker
 
