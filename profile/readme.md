@@ -10,20 +10,28 @@ The purpose of the __Wall Garden__ is to:
 
 - Grow vegetables directly on the walls.
 - Consume less water than a horizontal garden.
+- Use less horizontal land (that can be used for other purposes, such as planting trees).
 - Provide thermal insulation for the house,
 - Use water from the house gutters.
 
-# Technical specs
+## Technical specs
 
 - 3 sections of wall (separated by windows). 
-
 - 6m in length (total),
-
 - 1.8m (of soil) in height,
-
 - 11cm soil thickness,
-
 - 2mm plexiglass is used as the external layer. I have chosen plexiglass because it is strong enough to hold the structure and it is easy to cut. Also, it is transparent and shows which part of the garden is not watered properly.
+
+## Structure
+
+From wall to outside:
+
+- hydroisolation,
+- 10 cm of soil,
+- plexiglass,
+- welded mesh,
+- vertical corners.
+
 
 ## Maker
 
@@ -80,9 +88,10 @@ screws, nuts, washers (M8)| many | pcs | ? | ? | everywhere | local |
 	- plexiglass (at 10-11 cm from the wall),
 	- welded mesh,
 	- vertical corners.
-- Add soil,
+- Fill with soil,
 - Dig holes in plexiglass (I did that with grinding machine with a 1mm thick blade and then I used the heat gun with a conic metal tube to enlarge it),
-- Plant peppers.
+- Plant peppers,
+- Water it.
 
 More details will be given here soon ... [instructions.md](instructions.md)
 
