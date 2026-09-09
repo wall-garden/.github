@@ -16,15 +16,15 @@ The purpose of the __Wall Garden__ is to:
 
 ## Technical specs
 
-- 3 sections of wall (separated by house's windows). 
+- 3 sections of wall (separated by the house's windows). 
 - 6m in length (total),
 - 1.8m (of soil) in height,
 - 11cm soil thickness,
-- 2mm plexiglass is used as the external layer. I have chosen plexiglass because it is strong enough to hold the structure and it is easy to cut. Also, it is transparent and shows which part of the garden is not watered properly.
+- 2mm plexiglass is used as the external layer. I have chosen plexiglass because it is strong enough to hold the structure, and it is easy to cut. Also, it is transparent and shows which part of the garden is not watered properly.
 
 ## Structure
 
-From wall to outside:
+From the house wall to outside:
 
 - hydroisolation,
 - 10 cm of soil,
@@ -77,7 +77,7 @@ screws, nuts, washers (M8)| many | pcs | ? | ? | everywhere | local |
 ## Software
 
 - [OpenSCAD](https://openscad.org) - for 3D design.
-- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting linear materias (bars) (if you have a lot of bars to cut from).
+- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing waste when cutting linear materials (bars) (if you have a lot of bars to cut from).
 
 ## Build instructions
 
