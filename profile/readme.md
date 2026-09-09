@@ -24,13 +24,13 @@ The purpose of the __Wall Garden__ is to:
 
 ## Structure
 
-From the house wall to outside:
+Layers from the house wall to outside:
 
 - hydroisolation,
 - 10 cm of soil,
 - plexiglass,
 - welded mesh,
-- vertical corners.
+- vertical corners attached to the roof rafters.
 
 ## Maker
 
