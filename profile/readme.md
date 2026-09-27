@@ -36,9 +36,15 @@ Layers from the house wall to outside:
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
-## Pictures and videos
+## Pictures 
 
-[YouTube video](https://www.youtube.com/watch?v=czQobMgsrGs)
+More pictures are [here](../pictures/).
+
+## Videos
+
+[YouTube video 1](https://www.youtube.com/watch?v=czQobMgsrGs)
+
+[YouTube video 2](https://www.youtube.com/watch?v=Wvb52q9TKKM)
 
 [Instagram video](https://www.instagram.com/p/Dc1DuyxIgDQ/)
 
