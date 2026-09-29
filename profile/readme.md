@@ -96,15 +96,9 @@ screws, nuts, washers (M8)| many | pcs | ? | ? | everywhere | local |
 - Fill with soil,
 - Dig holes in plexiglass (I did that with grinding machine with a 1mm thick blade and then I used the heat gun with a conic metal tube to enlarge it),
 - Plant peppers,
-- Water it.
+- Water it when needed.
 
 More details will be given here soon ... [instructions.md](instructions.md)
-
-## License
-
-MIT
-
-You may do whatever you want with this information as long as you mention the author.
 
 ## Cite as
 
@@ -116,6 +110,13 @@ Mihai Oltean, *A wall garden*, 2026.
 - 2026, April (end of). First wall garden built.
 - 2026, May. 2nd and 3rd wall gardens built.
 
+## Related projects
+
+[Roof Garden](https://github.com/f-roof).
+
+## License
+
+MIT. You may do whatever you want with this information as long as you mention the author.
 
 ## Warning
 
