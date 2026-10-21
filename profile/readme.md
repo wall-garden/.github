@@ -99,7 +99,7 @@ screws M8x30, nuts| 20 | pcs | 0.1 | 2 | roof connections  | local |
 - Plant peppers,
 - Water it when needed.
 
-More details will be given here soon ... [instructions.md](instructions.md)
+More details are here: [instructions.md](instructions.md)
 
 ## Cite as
 
