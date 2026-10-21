@@ -69,8 +69,8 @@ Will be updated ...
 L profile (steel) 30x30x3mm | 24 | m | 2 | 48 | support | local |
 welded mesh 6mm| 20 | m^2^ |  5 | 100 | plexi support | local |
 plexiglass 2mm| 20 | m^2^ |  10 | 200 | soil support | local |
-hydro-isolation membrane| 20 | m^2^ |  1 | 20 | soil support | local |
-screws M8x30, nuts| 20 | pcs | 0.1 | 2 | everywhere | local |
+hydro-isolation membrane| 20 | m^2^ |  1 | 20 | wall protection | local |
+screws M8x30, nuts| 20 | pcs | 0.1 | 2 | roof connections  | local |
 
 ## Tools
 
