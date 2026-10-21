@@ -2,7 +2,7 @@
 
 - Prepare the wall
 
-![wall-garden](../pictures/wall_preparation.jpeg)
+![wall-garden](../pictures/wall_preparation2.jpeg)
 
 - Cut the bars to required size and angle
 
