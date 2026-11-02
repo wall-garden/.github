@@ -8,7 +8,8 @@
 
 ![wall-garden](../pictures/cut_bars.jpeg)
 
-- Connect the support to roof.
+- Connect the top support to roof. 
+The bottom support is the soil, so no special preparation are needed there.
 
 ![wall-garden](../pictures/bars_to_roof.jpeg)
 
@@ -21,14 +22,15 @@
 ![wall-garden](../pictures/welded_mesh.jpeg)
 
 - Install the plexiglass. I connected it with some strings to the mesh so it does not fall.
+If you cannot push the plexiglass easily from lateral, you must remove the vertical support, install the plexiglass with mesh and them install again.
 
 ![wall-garden](../pictures/plexiglass_install.jpeg)
 
-- Side view of structure
+- Side view of structure. See how the welded mesh is bended twice.
 
 ![wall-garden](../pictures/structure_side_view.jpeg)
 
-- Fill with soil from the top.
+- Fill with soil from the top. Make sure that the soil is good quality because it is difficult to treat it after insertion.
 
 ![wall-garden](../pictures/soil_fill.jpeg)
 
